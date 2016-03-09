@@ -183,14 +183,14 @@ background-color: rgba(1,50,32,1);
 input[type="submit"] {
       color: white;
       background: rgba(1,50,32,1);
-      margin: 10px 0 0 0;
+      margin: 20px 0 0 0;
       border: 0;
       padding: 10px;
       font-size: 18px;
       font-family: 'Indie Flower', cursive;
     }
     input[type="email"] {
-        margin: 10px 0 0 0;
+        margin: 20px 0 0 0;
       border: 0;
       padding: 10px;
       font-size: 18px;
