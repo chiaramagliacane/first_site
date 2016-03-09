@@ -24,7 +24,7 @@
       background: -moz-linear-gradient(bottom, rgba(255,255,255,1), rgba(255,255,255,.4));
       border-radius: 0 20px 20px 0;
     }
-    img {
+    img-header {
       height: 240px;
       width: 280px;
       margin: 20px 0 0 0;
