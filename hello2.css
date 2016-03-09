@@ -185,6 +185,7 @@ input[type="submit"] {
       font-family: 'Indie Flower', cursive;
       display: flex;
       align-items: center;
+      justify-content: center;
     }
     input[type="email"] {
          position: center;
@@ -195,6 +196,7 @@ input[type="submit"] {
       font-family: 'Indie Flower', cursive;
       display: flex;
       align-items: center;
+      justify-content: center;
     }
 /*
 .first{
