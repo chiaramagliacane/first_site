@@ -167,6 +167,18 @@ background-color: rgba(1,50,32,1);
     display: block;
     padding: 10px 15px;
 }
+input[type="submit"] {
+      color: white;
+      background: red;
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="email"] {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
 /*
 .first{
   background-image: url("http://i.imgur.com/coBdnjp.jpg");
