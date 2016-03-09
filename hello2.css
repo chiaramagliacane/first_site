@@ -135,6 +135,9 @@ nav {
     display: table;/*
     display: inline;*/
 }
+.follow {
+    text-align: left;
+}
 /*
 .clear {
     clear:both;
