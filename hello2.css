@@ -169,15 +169,21 @@ background-color: rgba(1,50,32,1);
 }
 input[type="submit"] {
       color: white;
-      background: red;
+      background: rgba(1,50,32,1);
+      position: center;
+      margin: 0 auto;
       border: 0;
       padding: 10px;
       font-size: 18px;
+      font-family: 'Indie Flower', cursive;
     }
     input[type="email"] {
+         position: center;
+         margin: 0 auto;
       border: 0;
       padding: 10px;
       font-size: 18px;
+      font-family: 'Indie Flower', cursive;
     }
 /*
 .first{
