@@ -24,14 +24,14 @@
       background: -moz-linear-gradient(bottom, rgba(255,255,255,1), rgba(255,255,255,.4));
       border-radius: 0 20px 20px 0;
     }
-    img-header {
+    .img-header {
       height: 240px;
       width: 280px;
       margin: 20px 0 0 0;
       border: 7px solid white;
       border-radius: 100px 100px 100px 20px;
     }
-    img-circle {
+    .img-circle {
         margin: 0 auto;
         border-radius: 100px 100px 100px 100px;
         position: center;
