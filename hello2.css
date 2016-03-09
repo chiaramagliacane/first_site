@@ -169,6 +169,7 @@ background-color: rgba(1,50,32,1);
 }
 .contacts {
     position: center;
+    text-align: center;
 }
 .p-email {
     text-align: center;
