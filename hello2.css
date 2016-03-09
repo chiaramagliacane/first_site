@@ -168,8 +168,11 @@ background-color: rgba(1,50,32,1);
     padding: 10px 15px;
 }
 .p-email {
-    font-size: 18px;
+    text-align: center;
+    font-size: 30px;
       font-family: 'Indie Flower', cursive;
+      display: flex;
+      align-items: center;
 }
 input[type="submit"] {
       color: white;
@@ -180,6 +183,8 @@ input[type="submit"] {
       padding: 10px;
       font-size: 18px;
       font-family: 'Indie Flower', cursive;
+      display: flex;
+      align-items: center;
     }
     input[type="email"] {
          position: center;
@@ -188,6 +193,8 @@ input[type="submit"] {
       padding: 10px;
       font-size: 18px;
       font-family: 'Indie Flower', cursive;
+      display: flex;
+      align-items: center;
     }
 /*
 .first{
