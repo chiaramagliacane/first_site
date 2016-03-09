@@ -167,6 +167,9 @@ background-color: rgba(1,50,32,1);
     display: block;
     padding: 10px 15px;
 }
+.contacts {
+    position: center;
+}
 .p-email {
     text-align: center;
     font-size: 30px;
@@ -177,26 +180,18 @@ background-color: rgba(1,50,32,1);
 input[type="submit"] {
       color: white;
       background: rgba(1,50,32,1);
-      position: center;
       margin: 0 auto;
       border: 0;
       padding: 10px;
       font-size: 18px;
       font-family: 'Indie Flower', cursive;
-      display: flex;
-      align-items: center;
-      justify-content: center;
     }
     input[type="email"] {
-         position: center;
          margin: 0 auto;
       border: 0;
       padding: 10px;
       font-size: 18px;
       font-family: 'Indie Flower', cursive;
-      display: flex;
-      align-items: center;
-      justify-content: center;
     }
 /*
 .first{
