@@ -85,7 +85,7 @@
       padding: 10px;
       background: rgba(0,0,0,0.5);
     }
-    script {
+    .g-person {
         position: center;
         text-align: center;
     }
