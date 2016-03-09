@@ -85,6 +85,10 @@
       padding: 10px;
       background: rgba(0,0,0,0.5);
     }
+    script {
+        position: center;
+        text-align: center;
+    }
     li {
       display: inline;
       padding: 0 10px 0 10px;
