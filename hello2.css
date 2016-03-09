@@ -168,27 +168,27 @@ background-color: rgba(1,50,32,1);
     padding: 10px 15px;
 }
 .contacts {
+    height: 300px;
     position: center;
     text-align: center;
+    margin: 0 35px;
 }
 .p-email {
     text-align: center;
     font-size: 30px;
-      font-family: 'Indie Flower', cursive;
+      font-family: 'Indie Flower', cursive;/*
       display: flex;
-      align-items: center;
+      align-items: center;*/
 }
 input[type="submit"] {
       color: white;
       background: rgba(1,50,32,1);
-      margin: 0 auto;
       border: 0;
       padding: 10px;
       font-size: 18px;
       font-family: 'Indie Flower', cursive;
     }
     input[type="email"] {
-         margin: 0 auto;
       border: 0;
       padding: 10px;
       font-size: 18px;
