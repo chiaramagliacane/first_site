@@ -86,8 +86,8 @@
       background: rgba(0,0,0,0.5);
     }
     .g-person {
-        position: center;
-        text-align: center;
+        display: flex;
+        justify-content: center;
     }
     li {
       display: inline;
