@@ -173,6 +173,10 @@ background-color: rgba(1,50,32,1);
     text-align: center;
     margin: 0 35px;
 }
+.name {
+    position: center;
+    text-align: center;
+}
 .p-email {
     text-align: center;
     font-size: 30px;
