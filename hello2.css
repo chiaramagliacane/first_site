@@ -167,6 +167,10 @@ background-color: rgba(1,50,32,1);
     display: block;
     padding: 10px 15px;
 }
+.p-email {
+    font-size: 18px;
+      font-family: 'Indie Flower', cursive;
+}
 input[type="submit"] {
       color: white;
       background: rgba(1,50,32,1);
