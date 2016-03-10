@@ -271,12 +271,11 @@ input[type="submit"] {
         display: inline;
       }
       p {
-          width: 260px;
         margin: 40px 25px;
         text-align: center;
       }
       .first {
-           width: 260px;
+           width: 300px;
       }
       .name {
            width: 260px;
