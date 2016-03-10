@@ -259,7 +259,7 @@ input[type="submit"] {
         display: flex;
         justify-content: center;
       }
-      img {
+     .img-header {
         height: 160px;
         width: 180px;
       margin: 10px auto;
@@ -274,6 +274,15 @@ input[type="submit"] {
           width: 260px;
         margin: 40px 25px;
         text-align: center;
+      }
+      .first {
+           width: 260px;
+      }
+      .name {
+           width: 260px;
+      }
+      article {
+          text-align: center;
       }
       nav {
         height: 25px;
