@@ -237,9 +237,10 @@ input[type="submit"] {
 @media (min-width: 500px, max-width: 1250px) {
     article {
         max-width: 800px;
-        width: 400px;
-        margin: 40px 25px;
-        text-align: center;
+        width: 300px;
+        position: center;
+    text-align: center;
+    margin: 0 35px;
     }
 }
     @media (max-width: 500px) {
