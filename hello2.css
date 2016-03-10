@@ -38,11 +38,10 @@
     }
     h2 {
       font-size: 30px;
-      margin: 5px 0 5px 470px;
+      margin: 5px 0 5px 0;
       padding: 20px 0 0 0;
       height: 60px;
       width: 320px;
-      position: left;
       background: rgba(255,255,255, 1);
        background: linear-gradient(bottom, rgba(255,255,255,1), rgba(255,255,255,.4));
   background: -webkit-linear-gradient(bottom, rgba(255,255,255,1), rgba(255,255,255,.4));
