@@ -238,8 +238,8 @@ input[type="submit"] {
     article {
         max-width: 800px;
         width: auto;
-        position: center;
-    text-align: center;
+        position: left;
+    text-align: left;
     margin: 0 35px;
     }
 }
