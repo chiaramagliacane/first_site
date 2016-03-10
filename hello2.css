@@ -270,17 +270,18 @@ input[type="submit"] {
         padding: 5px;
         display: inline;
       }
-      p {
-        margin: 40px 25px;
+      p {/*
+        margin: 40px 25px;*/
         text-align: center;
       }
-      .first {
-           width: 300px;
+      .first {/*
+           width: 300px;*/
       }
       .name {
            width: 260px;
       }
       article {
+          width: 260px;
           text-align: center;
       }
       nav {
