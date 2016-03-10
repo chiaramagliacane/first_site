@@ -238,7 +238,7 @@ input[type="submit"] {
     article {
         width: auto;
         position: left;
-    text-align: left;
+    text-align: justify;
     margin: 0 35px;
     }
 }
