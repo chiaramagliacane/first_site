@@ -236,7 +236,6 @@ input[type="submit"] {
 }*/
 @media only screen and (min-width:500px) and (max-width: 1200px)  {
     article {
-        max-width: 800px;
         width: auto;
         position: left;
     text-align: left;
