@@ -237,7 +237,7 @@ input[type="submit"] {
 @media (min-width: 500px, max-width: 1250px) {
     article {
         max-width: 800px;
-        width: 300px;
+        width: auto;
         position: center;
     text-align: center;
     margin: 0 35px;
