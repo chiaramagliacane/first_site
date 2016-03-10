@@ -46,7 +46,7 @@
        background: linear-gradient(bottom, rgba(255,255,255,1), rgba(255,255,255,.4));
   background: -webkit-linear-gradient(bottom, rgba(255,255,255,1), rgba(255,255,255,.4));
   background: -moz-linear-gradient(bottom, rgba(255,255,255,1), rgba(255,255,255,.4));
-      border-radius: 20px 5px 5px 5px;
+      border-radius: 0 20px 0 0;
       display: flex;
       align-items: center;
       justify-content: center;
